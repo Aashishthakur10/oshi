@@ -1,6 +1,6 @@
 3.12.0 (in progress)
 ================
-* Your contribution here.
+* [#694](https://github.com/oshi/oshi/pull/694): Unique Computer Identifier in Util method - [@aashishthakur](https://github.com/Aashishthakur10)
 
 3.11.0 (11/21/18)
 ================
